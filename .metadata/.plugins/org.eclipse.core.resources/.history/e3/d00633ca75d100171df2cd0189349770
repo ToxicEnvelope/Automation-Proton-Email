@@ -1,0 +1,9 @@
+package com.proton.email.bot.core._;
+
+
+import net.thucydides.core.pages.PageObject;
+
+
+public abstract class ProtonAppView extends PageObject {
+
+}

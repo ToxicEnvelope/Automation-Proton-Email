@@ -1,0 +1,9 @@
+package com.proton.email.bot.core;
+
+public interface IWaiter {
+
+	public WebElement waitUntilElementLocatedByID(String id);
+	public WebElement waitUntilElementLocatedByClass(String cls);
+	public WebElement waitUntilElementLocatedByCSS(String css);
+	public WebElement waitUntilElementLocatedByXP(String xpath);
+}

@@ -1,0 +1,14 @@
+package com.proton.email.bot.core.tests;
+
+import com.proton.email.bot.core.pageobjects.LoginPage;
+
+public class LoginTest extends ProtonTests {
+
+	
+	private LoginPage login;
+	
+	@Step
+	public void Click_on_Create_Account_TEST() {
+		login = new LoginPage(this.driver);
+	}
+}

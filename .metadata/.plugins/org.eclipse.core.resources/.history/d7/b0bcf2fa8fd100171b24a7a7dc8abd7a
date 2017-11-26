@@ -1,0 +1,95 @@
+package com.proton.email.bot.core.pageobjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.proton.email.bot.core.BasePage;
+
+public class SigninPage extends BasePage {
+
+
+	@FindBy(css="a.loginForm-link-signup.loginForm-actions-right")
+	private WebElement createAccountBtn;
+	private WebElement freePlan;
+	private WebElement selectPlanBtn;
+	
+	
+	public SigninPage(WebDriver driver) {
+		super(driver);
+		
+	}
+	
+	
+	public boolean attemptToClickOnCreateAccountBtn() {
+		createAccountBtn = waitUntilElementLocatedByCSS("a.loginForm-link-signup.loginForm-actions-right");
+		if(createAccountBtn.isDisplayed()) {
+			click(createAccountBtn);
+			return true;
+		}
+		else {
+			snapShot();
+			return false;
+		}
+	}
+	
+	public boolean attemptToClickOnFreePlan() {	
+		freePlan = waitUntilElementLocatedByCSS("div.col-sm-1.col-xs-2>i");
+		if(freePlan.isDisplayed()) {
+			click(freePlan);
+			return true;
+		}
+		else {
+			snapShot();
+			return false;
+		}
+	}
+	
+	public boolean attemptToClickOnSelectFreePlanBtn() {
+		selectPlanBtn = waitUntilElementLocatedByCSS("div.panel-footer>div.row>div>button");
+		if(isClickable(selectPlanBtn)) {
+			click(selectPlanBtn);
+			return true;
+		}
+		else {
+			snapShot();
+			return false;
+		}
+	}
+	
+	
+	
+	
+	
+	public WebElement waitUntilElementLocatedByClass(String cls) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.className(cls)));
+	}
+	
+	public WebElement  waitUntilElementLocatedByID(String id) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.id(id)));
+	}
+	
+	public WebElement waitUntilElementLocatedByXP(String xpath) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath)));
+	}
+	
+	public WebElement waitUntilElementLocatedByCSS(String css) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(css)));
+	}
+	
+	private boolean isClickable(WebElement el) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		if(wait.until(ExpectedConditions.elementToBeClickable(el)!=null)
+		{
+			return true;
+		}
+		return false;
+	}
+}

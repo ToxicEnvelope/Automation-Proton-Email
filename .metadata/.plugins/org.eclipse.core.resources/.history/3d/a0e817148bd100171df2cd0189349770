@@ -1,0 +1,39 @@
+package com.proton.email.bot.core.tests;
+
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import com.proton.email.bot.core.pageobjects.SigninPage;
+
+
+public class BaseTest {
+	
+	protected WebDriver driver;
+	private SigninPage sign;
+	private final String baseUrl = "https://mail.protonmail.com/login";
+	
+	
+
+	@BeforeClass
+	public void setUp() {
+		String engine = "webdriver.chrome.driver",
+			   wdPath = System.getProperty("user.dir") + "/Drivers/chromedriver";
+		System.setProperty(engine, wdPath);
+		driver = new ChromeDriver();
+		driver.get(baseUrl);
+	}
+	
+	@Test
+	public void E2E_YAHAV_EXCERCISE() {
+		sign = new SigninPage(this.driver);
+		Assert.assertTrue(sign.attemptToClickOnCreateAccountBtn());
+		Assert.assertTrue(sign.attemptToClickOnSelectFreePlanBtn());
+		
+	}
+	
+	
+}

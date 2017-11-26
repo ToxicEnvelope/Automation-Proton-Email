@@ -1,0 +1,6 @@
+package com.proton.email.bot.core.tests;
+
+public class LoginTest extends ProtonTests {
+
+	private LoginPage login;
+}

@@ -1,0 +1,63 @@
+package com.proton.email.bot.core.pageobjects;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+import com.proton.email.bot.core.BasePage;
+
+
+public class SignInPage extends BasePage {
+
+	
+	@FindBy(css="div.col-sm-1.col-xs-2>i")
+	private WebElement freePlan;
+	
+	public SignInPage(WebDriver driver) {
+		super(driver);
+	}
+	
+	public boolean attemptToClickOnFreePlan() {	
+		freePlan = waitUntilElementLocatedByCSS("div.col-sm-1.col-xs-2>i");
+		if(freePlan.isDisplayed()) {
+			click(freePlan);
+			return true;
+		}
+		else {
+			snapShot();
+			return false;
+		}
+	}
+
+
+
+
+	public WebElement waitUntilElementLocatedByID(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
+
+	public WebElement waitUntilElementLocatedByClass(String cls) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
+
+	public WebElement waitUntilElementLocatedByCSS(String css) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+
+
+
+	public WebElement waitUntilElementLocatedByXP(String xpath) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

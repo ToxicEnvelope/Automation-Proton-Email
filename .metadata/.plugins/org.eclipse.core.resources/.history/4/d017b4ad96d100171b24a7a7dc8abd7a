@@ -1,0 +1,22 @@
+package com.proton.email.bot.core.tests;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import com.proton.email.bot.core.pageobjects.LoginPage;
+
+import net.thucydides.core.annotations.Step;
+
+public class SignInPage extends BasePage {
+
+
+	private LoginPage login;
+	
+	@Step
+	public void Select_free_plan() {
+		login = new LoginPage(this.driver);
+		Assert.assertTrue(login.attemptToClickOnFreePlan());
+	}
+
+
+}

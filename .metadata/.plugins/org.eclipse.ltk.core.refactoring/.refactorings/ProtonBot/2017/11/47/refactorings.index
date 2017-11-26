@@ -1,0 +1,30 @@
+1511552102089	Rename package 'com.protonemailbot.pageobjects.ProtonBot'
+1511552125103	Delete element
+1511552137968	Delete element
+1511552174585	Delete element
+1511554067899	Delete element
+1511554996093	Delete element
+1511555004961	Delete element
+1511564450131	Rename type 'LoginPage'
+1511564468023	Rename type 'LoginTest'
+1511567378931	Rename type 'BaseTest'
+1511567852069	Move compilation unit
+1511570034740	Delete element
+1511571143874	Rename type 'ProtonTests'
+1511575834861	Delete element
+1511579481242	Delete element
+1511580721602	Rename type 'SigninPage'
+1511581843015	Delete elements
+1511581992543	Rename type 'BaseTest'
+1511582444895	Rename type 'SignInPage'
+1511582579098	Delete element
+1511582909977	Rename type 'LoginTest'
+1511582923852	Delete element
+1511582958556	Rename type 'ProtonTest'
+1511583018084	Rename type 'LoginPage'
+1511583105515	Rename compilation unit 'SignInPage.java'
+1511583208253	Rename type 'SignInTests'
+1511583855344	Rename type 'SignInPage'
+1511583881202	Rename type 'LoginPage'
+1511583896251	Rename type 'ProtonPage'
+1511584443453	Rename type 'SignInPage_2'

@@ -1,0 +1,8 @@
+package com.proton.email.bot.core.tests;
+
+public class SignInTest extends ProtonTest {
+
+	
+	private SignInPage sign;
+	
+}

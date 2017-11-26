@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="2" name="Failed suite [Test Runner]">
+  <test name="testRun(failed)">
+    <classes>
+      <class name="com.proton.email.bot.core.tests.FormTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="Fill_form_details_and_create_dotCom_account_TEST"/>
+        </methods>
+      </class> <!-- com.proton.email.bot.core.tests.FormTest -->
+      <class name="com.proton.email.bot.core.tests.SignInTest">
+        <methods>
+          <include name="Select_free_plan_TEST"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.proton.email.bot.core.tests.SignInTest -->
+    </classes>
+  </test> <!-- testRun(failed) -->
+</suite> <!-- Failed suite [Test Runner] -->

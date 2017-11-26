@@ -1,0 +1,19 @@
+package com.proton.email.bot.core._;
+
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.By;
+
+import net.thucydides.core.pages.PageObject;
+
+
+
+public abstract class ProtonAppView extends PageObject {
+
+	public static final int WAIT_TIMEOUT = 60;
+	public static final int OVERLAY_WAIT_TIMEOUT = 2;
+	protected Logger LOGGER = LogManager.getLogger(this);
+	protected By APP_CONTEINER = By.id("body");
+	protected By MAIN_SPINNER = By.id("");
+}

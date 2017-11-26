@@ -1,0 +1,57 @@
+package com.proton.email.bot.core.pageobjects;
+
+import java.util.ArrayList;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.Select;
+
+import com.proton.email.bot.core.BasePage;
+
+public class FormPage extends BasePage{
+
+	
+	@FindBy(id="username")
+	private WebElement alias;
+	
+	@FindBy(css="div.pm_select>select")
+	private Select select;
+	
+	@FindBy(css="input#password")
+	private WebElement pwd;
+	
+	@FindBy(css="input#passwordc")
+	private WebElement pwdc;
+	
+	@FindBy(css="input#notificationEmail")
+	private WebElement recoveryEmail;
+	
+	@FindBy(css="button.signUpProcess-btn-create")
+	private WebElement createAccountBtn;
+	private ArrayList<WebElement> listOfElemnets;
+	
+	public FormPage(WebDriver driver) {
+		super(driver);
+			
+	}
+	
+	public boolean attemptToFillFormDetails(String aliasMail, int selectIndex, String pwd, String email) {
+		
+		return false;
+	}
+	
+	private void identifyElements() {
+		listOfElemnets = new ArrayList<WebElement>();
+		listOfElemnets.add(alias);
+		select = new Select(waitUntilElementLocatedByCSS("div.pm_select>select"));
+		listOfElemnets.add(pwd);
+		listOfElemnets.add(pwdc);
+		listOfElemnets.add(recoveryEmail);
+		listOfElemnets.add(createAccountBtn);
+	}
+	
+	
+	
+	
+}
