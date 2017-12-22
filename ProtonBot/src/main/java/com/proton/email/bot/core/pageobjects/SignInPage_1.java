@@ -1,6 +1,5 @@
 package com.proton.email.bot.core.pageobjects;
 
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -21,10 +20,7 @@ public class SignInPage_1 extends BasePage {
 		freePlanPanel = waitUntilElementLocatedByCSS("div.col-sm-1.col-xs-2>i");
 		if(freePlanPanel.isDisplayed()) 
 		{
-			_js = (JavascriptExecutor) _driver;
-			_js.executeScript("arguments[0].setAttribute('style','border: 2px solid orange;');", freePlanPanel);
-			_js.executeScript("arguments[0].click()", freePlanPanel);
-			wait(2500);
+			click(freePlanPanel);
 			return true;
 		}
 		else 

@@ -1,0 +1,52 @@
+package com.proton.email.bot.core.pageobjects;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.testng.Assert;
+
+import com.proton.email.bot.core.BasePage;
+
+
+import net.serenitybdd.core.annotations.findby.FindBy;
+
+
+public class HumanPage extends BasePage {
+	
+
+	@FindBy(css="div.humanVerification-wrapper")
+	WebElement humanWrapper;
+	WebElement humanTitleMSG;
+	WebElement helpInfo;
+	WebElement helpInfoDeep;
+	WebElement emailRadioBtn; 
+	WebElement smsRadioBtn;
+	WebElement donateRadioBtn;
+	WebElement emailVerificationField;
+	WebElement sendBtn;
+	
+	public HumanPage(WebDriver driver) {
+		super(driver);
+		identifyElements();
+	}
+	
+	
+	public boolean attemptToVerifiedAsHumanGivenAChoice(String choice, String param) {
+		Assert.assertEquals(expected, humanTitleMSG.getText());
+	}
+	
+	protected void identifyElements() {
+		humanWrapper = waitUntilElementLocatedByCSS("div.humanVerification-wrapper");
+		WebElement humanTitleMSG = humanWrapper.findElement(By.cssSelector("label.titleLabel > span"));
+		WebElement helpInfo = humanWrapper.findElement(By.cssSelector("p.help"));
+		WebElement helpInfoDeep = humanWrapper.findElement(By.cssSelector("p.help.help humanVerification-help-privacy"));
+		WebElement emailRadioBtn = humanWrapper.findElement(By.cssSelector("div.humanVerification-block-email > input.customRadio-input")); 
+		WebElement smsRadioBtn = humanWrapper.findElement(By.cssSelector("div.humanVerification-block-sms > input.customRadio-input"));
+		WebElement donateRadioBtn = humanWrapper.findElement(By.cssSelector("div.humanVerification-block-donation > input.customRadio-input"));
+		WebElement emailVerificationField = humanWrapper.findElement(By.cssSelector("form.pm_grid > div > input[type=email]"));
+		WebElement sendBtn = humanWrapper.findElement(By.cssSelector("form.pm_grid > div > button.pm_button"));
+	}
+}

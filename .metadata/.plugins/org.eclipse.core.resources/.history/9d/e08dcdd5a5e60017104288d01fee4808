@@ -1,0 +1,20 @@
+package com.proton.email.bot.core.pageobjects;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+import com.proton.email.bot.core.BasePage;
+
+import net.serenitybdd.core.annotations.findby.FindBy;
+
+public class HumanPage extends BasePage {
+	
+
+	@FindBy(css="div.humanVerification-wrapper")
+	WebElement humanWrapper;
+	
+	public HumanPage(WebDriver driver) {
+		super(driver);
+	}
+
+}

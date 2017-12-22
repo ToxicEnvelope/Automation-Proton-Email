@@ -1,9 +1,0 @@
-package com.proton.email.bot.core.pageobjects;
-
-import org.openqa.selenium.WebElement;
-
-public class SignInPage {
-
-	@FindBy()
-	private WebElement freePlan;
-}

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
-<fullyQualifiedTypeName name="com.proton.email.bot.core.BasePage"/>
 <fullyQualifiedTypeName name="org.testng.Assert"/>
 <fullyQualifiedTypeName name="com.proton.email.bot.core.pageobjects.LoginPage"/>
 <fullyQualifiedTypeName name="net.thucydides.core.annotations.findby.FindBy"/>
@@ -13,4 +12,6 @@
 <fullyQualifiedTypeName name="org.apache.commons.lang3.RandomStringUtils"/>
 <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
 <fullyQualifiedTypeName name="net.thucydides.core.annotations.Step"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="com.proton.email.bot.core.BasePage"/>
 </qualifiedTypeNameHistroy>

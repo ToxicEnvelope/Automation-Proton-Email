@@ -3,13 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.proton.email.bot.core.tests.SignInTest">
+      <class name="com.proton.email.bot.core.tests.ProtonTests">
         <methods>
-          <include name="tearDown"/>
-          <include name="Select_free_plan_TEST"/>
           <include name="setUp"/>
+          <include name="Confirm_Human_and_Verify_Email"/>
         </methods>
-      </class> <!-- com.proton.email.bot.core.tests.SignInTest -->
+      </class> <!-- com.proton.email.bot.core.tests.ProtonTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

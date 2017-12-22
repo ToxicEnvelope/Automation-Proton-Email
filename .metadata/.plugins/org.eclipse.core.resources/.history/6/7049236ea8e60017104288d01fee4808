@@ -1,0 +1,33 @@
+package com.proton.email.bot.core.pageobjects;
+
+import java.awt.ArrayList;
+import java.awt.List;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+import com.proton.email.bot.core.BasePage;
+
+import net.serenitybdd.core.annotations.findby.FindBy;
+import net.thucydides.core.annotations.findby.By;
+
+public class HumanPage extends BasePage {
+	
+
+	@FindBy(css="div.humanVerification-wrapper")
+	WebElement humanWrapper;
+	
+	public HumanPage(WebDriver driver) {
+		super(driver);
+		identifyElements();
+	}
+	
+	private void identifyElements() {
+		humanWrapper = waitUntilElementLocatedByCSS("div.humanVerification-wrapper");
+		WebElement humanTitleMSG = humanWrapper.findElement(By.cssSelector("label.titleLabel > span"));
+		WebElement helpInfo = humanWrapper.findElement(By.cssSelector("p.help"));
+		WebElement helpInfoDeep = humanWrapper.findElement(By.cssSelector("p.help.help humanVerification-help-privacy"));
+		
+		List<> radioBtns = new ArrayList<>();
+	}
+}

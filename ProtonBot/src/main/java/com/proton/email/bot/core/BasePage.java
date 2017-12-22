@@ -3,7 +3,6 @@ package com.proton.email.bot.core;
 import java.io.File;
 import java.io.IOException;
 import java.util.Calendar;
-import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
@@ -19,17 +18,17 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public abstract class BasePage {
 	
-	
+	// Fields
 	public WebDriver _driver;
 	public TakesScreenshot screen;
 	public JavascriptExecutor _js;
 	
-	
+	// Constructor
 	public BasePage(WebDriver driver) {
 		this._driver = driver;
 		PageFactory.initElements(_driver, this);
 	}
-	
+	// fill text fields of WebElement object
 	public void fillText(WebElement el, String word) {
 		if(el.isDisplayed()) {
 			if(el.getText().isEmpty()) 
@@ -37,31 +36,42 @@ public abstract class BasePage {
 				this._js = (JavascriptExecutor) _driver; 
 				_js.executeScript("arguments[0].setAttribute('style','border: 2px solid green;');", el);
 				el.sendKeys(word);
+				wait(1000);
 			}
 			else {	
 				this._js = (JavascriptExecutor) _driver; 
 				_js.executeScript("arguments[0].setAttribute('style','border: 2px solid blue;');", el);
 				el.clear();
 				el.sendKeys(word);
+				wait(1000);
 			}		
 		}
 	}
-	
+	// click on WebElement object
 	public void click(WebElement el) {
 		try {
 			this._js = (JavascriptExecutor) _driver; 
 			_js.executeScript("arguments[0].setAttribute('style','border: 2px solid yellow;');", el);
-			el.click();	
+			el.click();
+			wait(1000);
 		}
 		catch (WebDriverException e) {
+			_js = (JavascriptExecutor) _driver;
+			_js.executeScript("arguments[0].setAttribute('style','border: 2px solid orange;');", el);
+			_js.executeScript("arguments[0].click()", el);
+			wait(1000);
+		}
+	}
+	// wait given milliseconds
+	public void wait(int mSeconds) {
+		try {
+			Thread.sleep(mSeconds);
+		}
+		catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
-	
-	public void wait(int mSeconds) {
-		_driver.manage().timeouts().implicitlyWait(mSeconds, TimeUnit.MILLISECONDS);
-	}
-	
+	// take a screen shot
 	public void snapShot() {
 		this.screen = (TakesScreenshot) _driver;
 		File src = screen.getScreenshotAs(OutputType.FILE);
@@ -73,30 +83,31 @@ public abstract class BasePage {
 			e.printStackTrace();
 		}
 	}
-	
+	// returns a timestamp fingerprint 
 	private String getFingerprint() {
 		Calendar c = Calendar.getInstance();
 		return c.getTime().toString();
 	}
-	
-	public WebElement waitUntilElementLocatedByClass(String cls) {
+
+	// IMPICIT WAITERS //
+	// Presence in DOM By CSS
+	public WebElement waitUntilElementPresenceByCSS(String css) {
 		WebDriverWait wait = new WebDriverWait(_driver, 10);
-		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.className(cls)));
+		return wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(css)));
 	}
-	
-	public WebElement  waitUntilElementLocatedByID(String id) {
-		WebDriverWait wait = new WebDriverWait(_driver, 10);
-		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.id(id)));
-	}
-	
-	public WebElement waitUntilElementLocatedByXP(String xpath) {
-		WebDriverWait wait = new WebDriverWait(_driver, 10);
-		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(xpath)));
-	}
-	
+	// Visible in DOM By CSS
 	public WebElement waitUntilElementLocatedByCSS(String css) {
 		WebDriverWait wait = new WebDriverWait(_driver, 10);
 		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(css)));
 	}
-	
+	// Presence in DOM By ID
+	public WebElement waitUntilElementPresenceByID(String id) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.presenceOfElementLocated(By.id(id)));
+	}
+	// Visible in DOM By ID	
+	public WebElement  waitUntilElementLocatedByID(String id) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.id(id)));
+	}
 }

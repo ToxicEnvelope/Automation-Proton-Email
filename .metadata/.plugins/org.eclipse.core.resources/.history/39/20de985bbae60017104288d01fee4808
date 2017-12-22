@@ -1,0 +1,11 @@
+package com.proton.email.bot.core.tests;
+
+
+public class FormTest extends ProtonTests {
+	
+	
+	
+	
+	
+	
+}

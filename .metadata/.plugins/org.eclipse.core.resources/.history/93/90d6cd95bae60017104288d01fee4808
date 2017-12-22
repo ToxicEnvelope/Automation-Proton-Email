@@ -1,0 +1,10 @@
+package com.proton.email.bot.core.pageobjects;
+
+public class GmailInboxPage extends BasePage {
+	
+	
+	public GmailInboxPage(WebDriver driver) {
+		super(driver);
+	}
+
+}
