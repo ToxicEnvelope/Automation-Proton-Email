@@ -1,6 +1,0 @@
-package com.proton.email.bot.core;
-
-public interface ILambda {
-
-	(x) -> if(x.) ;
-}

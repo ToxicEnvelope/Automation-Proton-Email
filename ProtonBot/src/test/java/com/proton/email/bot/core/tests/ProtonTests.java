@@ -1,5 +1,6 @@
 package com.proton.email.bot.core.tests;
 
+import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.lang3.RandomStringUtils;
@@ -18,13 +19,17 @@ import com.proton.email.bot.core.pageobjects.SignInPage;
 
 public class ProtonTests {
 	
-	
+	public static final String EXEC_CORE = System.getProperty("user.dir") + "/src/main/exec/";
 	protected WebDriver driver;
 	
 	public static final String BASE_URL = "https://mail.protonmail.com/login";
-	public static final String GMAIL_SIGNIN_URL = "https://accounts.google.com/";
+	public static final String GMAIL_SIGNIN_URL = "https://accounts.google.com/signin";
+//	public static final String RECOVERY_EMAIL = "yahav.hoffmann@gmail.com";
+//	public static final String RECOVERY_EMAIL_PASSWD = "%lmao%@YourFac3~.";
 	public static final String RECOVERY_EMAIL = "sysmurff@gmail.com";
 	public static final String RECOVERY_EMAIL_PASSWD = "%lol%#YourFac3~";
+	
+	public String PROTON_USER = getRandomString();
 	
 	private LoginPage login;
 	private SignInPage sign;
@@ -32,55 +37,62 @@ public class ProtonTests {
 	private HumanPage human;
 	private GmailInboxPage gmail;
 
+
 	
 	@BeforeClass
 	public void setUp() {
 		String engine = "webdriver.chrome.driver",
-			   wdPath = System.getProperty("user.dir") + "/Drivers/chromedriver";
+			   wdPath = EXEC_CORE + "chromedriver";
 		System.setProperty(engine, wdPath);
 		ChromeOptions options = new ChromeOptions();
-		options.addArguments("--start-maximized");
+		options.addArguments("start-maximized");
 		driver = new ChromeDriver(options);
 		driver.get(BASE_URL);
 		driver.manage().timeouts().implicitlyWait(2500, TimeUnit.MILLISECONDS);
 	}
 	
 	
-	@Test(priority=1)
+	@Test(priority=0)
 	public void Click_on_Create_Account_TEST() {
 		login = new LoginPage(driver);
 		Assert.assertTrue(login.attemptToClickOnCreateAccountBtn());
 	}
 	
-	@Test(priority=2)
+	@Test(priority=1)
 	public void Select_free_plan_TEST() {
 		sign = new SignInPage(driver);
 		Assert.assertTrue(sign.attemptToClickOnFreePlan());
 		Assert.assertTrue(sign.attemptToClickOnSelectFreePlanBtn());
 	}
 	
-	@Test(priority=3)
+	@Test(priority=2)
 	public void Fill_form_details_and_create_dotCom_account_TEST() {	
 		form = new FormPage(this.driver);
-		form.attemptToFillFormDetails(getRandomString(), RECOVERY_EMAIL_PASSWD, RECOVERY_EMAIL);
-		//form.attemptToFillFormDetails(getRandomString(), 1, this.passwd, recoveryEmail);
+		form.attemptToFillFormDetails(PROTON_USER, RECOVERY_EMAIL_PASSWD, RECOVERY_EMAIL);
 	}
 	
-	@Test(priority=4)
-	public void Confirm_Human_and_Verify_Email() {
+	@Test(priority=3)
+	public void Confirm_Human_and_Verify_Email_TEST() {
 		human = new HumanPage(driver);
 		Assert.assertTrue(human.attemptToVerifyHumanGivenEmail(RECOVERY_EMAIL));
 	}
 	
-	@Test(priority=5)
-	public void Verify_Proton_MSG_Inside_Gmail_Inbox() {
+	@Test(priority=4)
+	public void Verify_Proton_MSG_Inside_Gmail_Inbox_TEST() {
+		
+		String oldTab = driver.getWindowHandle();		
+		ArrayList<String> tabs = new ArrayList<String>(driver.getWindowHandles());
+        tabs.add(oldTab);
+        driver.switchTo().window(tabs.get(1)).navigate().to(GMAIL_SIGNIN_URL);
 		gmail = new GmailInboxPage(driver);
+		gmail.attemptToAuthenticate(RECOVERY_EMAIL, RECOVERY_EMAIL_PASSWD);
 		Assert.assertTrue(gmail.isProtonThreadInsideInbox());
 	}
 	
-	@Test(priority=6)
-	public void Grab_From_Thread_and_Retreive_BiggerKeyPass() {
-		
+	@Test(priority=5)
+	public void Grab_From_Thread_and_Retreive_BiggerKeyPass_TEST() {
+		human.fetch(gmail.returnBiggerToOriginAndVerify());
+		Assert.assertTrue(human.placeBiggerInKeyPassFieldAndConfirm());
 	}
 	
 
@@ -91,8 +103,7 @@ public class ProtonTests {
 //		}	
 //	}
 	
-	
-	protected String getRandomString() { 
+	private String getRandomString() { 
 		return RandomStringUtils.randomAlphanumeric(8);
 	} 
 

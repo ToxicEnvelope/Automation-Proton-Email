@@ -1,8 +1,0 @@
-package com.proton.email.bot.core;
-
-public interface IWaiter {
-
-	public boolean  waitUntilElementLocatedByID(String id);
-	public boolean waitUntilElementLocatedByClass(String cls);
-	public boolean waitUntilElementLocatedByXP(String xpath);
-}

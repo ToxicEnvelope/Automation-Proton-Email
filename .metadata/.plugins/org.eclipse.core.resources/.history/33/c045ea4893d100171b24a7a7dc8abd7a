@@ -1,5 +1,0 @@
-package com.proton.email.bot.core.pageobjects;
-
-public class LoginPage {
-
-}

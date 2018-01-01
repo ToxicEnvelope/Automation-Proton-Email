@@ -22,6 +22,7 @@ public abstract class BasePage {
 	public WebDriver _driver;
 	public TakesScreenshot screen;
 	public JavascriptExecutor _js;
+	private final String SCREENSHOT_CORE = System.getProperty("user.dir") + "/src/test/ScreenShots/";
 	
 	// Constructor
 	public BasePage(WebDriver driver) {
@@ -34,30 +35,42 @@ public abstract class BasePage {
 			if(el.getText().isEmpty()) 
 			{
 				this._js = (JavascriptExecutor) _driver; 
-				_js.executeScript("arguments[0].setAttribute('style','border: 2px solid green;');", el);
+				_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid green;');", el);
 				el.sendKeys(word);
 				wait(1000);
 			}
 			else {	
 				this._js = (JavascriptExecutor) _driver; 
-				_js.executeScript("arguments[0].setAttribute('style','border: 2px solid blue;');", el);
+				_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid blue;');", el);
 				el.clear();
 				el.sendKeys(word);
 				wait(1000);
 			}		
 		}
 	}
+	// scroll to WebElement object
+	public void scrollTo(WebElement element) {
+		try {
+			this._js = (JavascriptExecutor) _driver;
+			_js.executeScript("arguments[0].scrollIntoView(true);",element);
+			wait(1000);
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
 	// click on WebElement object
 	public void click(WebElement el) {
 		try {
 			this._js = (JavascriptExecutor) _driver; 
-			_js.executeScript("arguments[0].setAttribute('style','border: 2px solid yellow;');", el);
+			_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid yellow;');", el);
 			el.click();
 			wait(1000);
 		}
 		catch (WebDriverException e) {
 			_js = (JavascriptExecutor) _driver;
-			_js.executeScript("arguments[0].setAttribute('style','border: 2px solid orange;');", el);
+			_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid orange;');", el);
 			_js.executeScript("arguments[0].click()", el);
 			wait(1000);
 		}
@@ -76,9 +89,7 @@ public abstract class BasePage {
 		this.screen = (TakesScreenshot) _driver;
 		File src = screen.getScreenshotAs(OutputType.FILE);
 		try {
-			FileUtils.copyFile(src, new File(System.getProperty("user.dir") 
-								             		 + "/src/ScreenShots/" 
-								                     + getFingerprint() + ".png"));
+			FileUtils.copyFile(src, new File( SCREENSHOT_CORE + getFingerprint() + ".png"));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -88,7 +99,6 @@ public abstract class BasePage {
 		Calendar c = Calendar.getInstance();
 		return c.getTime().toString();
 	}
-
 	// IMPICIT WAITERS //
 	// Presence in DOM By CSS
 	public WebElement waitUntilElementPresenceByCSS(String css) {
@@ -110,4 +120,10 @@ public abstract class BasePage {
 		WebDriverWait wait = new WebDriverWait(_driver, 10);
 		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.id(id)));
 	}
+	// Clickable WebElement in DOM
+	public WebElement waitUntilElementIsClickableByCSS(String css) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector(css)));
+	}
+	
 }

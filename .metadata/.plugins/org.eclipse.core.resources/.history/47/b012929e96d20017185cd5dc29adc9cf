@@ -1,8 +1,0 @@
-package com.proton.email.bot.core.utils;
-
-public class Driver {
-
-	
-	public static WebDriver instance = null;
-	public static String browser = null;
-}

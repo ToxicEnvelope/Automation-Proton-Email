@@ -6643,3 +6643,1066 @@ org.apache.maven.artifact.InvalidArtifactRTException: For artifact {null:null:nu
 2017-12-22 04:09:57,576 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
 2017-12-22 04:09:57,576 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-12-22 04:09:57,576 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:21:16,428 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:21:16,428 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:21:16,429 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:21:16,429 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:21:28,992 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:21:28,992 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:21:28,993 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:21:28,993 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:22:13,283 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:22:13,283 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:22:13,284 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:22:13,284 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:23:04,319 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:23:04,319 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:23:04,319 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:23:04,319 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:35:10,029 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:35:10,029 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:35:10,030 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:35:10,030 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:38:03,288 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:38:03,289 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:38:03,290 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:38:03,290 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:38:30,297 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:38:30,297 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:38:30,298 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:38:30,298 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:39:28,713 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:39:28,713 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:39:28,714 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:39:28,714 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:39:50,155 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:39:50,155 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:39:50,156 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:39:50,156 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:41:16,418 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:41:16,418 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:41:16,419 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:41:16,419 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:42:31,687 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:42:31,687 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:42:31,688 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:42:31,688 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:44:41,904 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:44:41,904 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:44:41,904 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:44:41,904 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:50:09,497 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:09,498 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:50:09,498 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:09,511 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:50:15,472 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:15,478 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:50:15,479 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:15,479 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:50:28,802 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:28,802 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:50:28,802 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:28,802 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:50:51,156 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:51,156 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:50:51,157 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:50:51,157 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:51:14,472 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:51:14,472 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:51:14,473 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:51:14,473 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:53:19,620 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:53:19,620 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:53:19,621 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:53:19,621 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:55:00,615 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:55:00,615 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:55:00,615 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:55:00,615 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:55:12,160 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:55:12,160 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:55:12,161 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:55:12,161 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:56:03,299 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:56:03,300 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:56:03,300 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:56:03,300 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:56:10,046 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:56:10,046 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:56:10,047 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:56:10,047 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:56:59,562 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:56:59,562 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:56:59,562 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:56:59,562 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 04:57:32,397 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:57:32,397 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 04:57:32,398 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 04:57:32,398 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:00:01,211 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:00:01,211 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:00:01,212 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:00:01,212 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:00:17,421 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:00:17,421 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:00:17,422 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:00:17,422 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:02:25,024 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:02:25,024 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:02:25,024 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:02:25,024 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:03:42,513 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:03:42,513 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:03:42,514 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:03:42,514 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:03:49,685 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:03:49,685 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:03:49,685 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:03:49,685 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:04:09,566 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:04:09,566 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:04:09,566 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:04:09,566 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:09:35,960 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:09:35,961 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:09:35,961 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:09:35,961 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:10:52,328 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:10:52,328 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:10:52,328 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:10:52,328 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:10:56,441 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:10:56,442 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:10:56,442 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:10:56,442 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:11:39,666 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:11:39,666 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:11:39,666 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:11:39,666 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:12:28,897 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:12:28,897 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:12:28,897 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:12:28,897 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:12:49,794 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:12:49,794 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:12:49,795 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:12:49,795 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:13:58,386 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:13:58,386 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:13:58,387 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:13:58,387 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:14:57,775 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:14:57,775 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:14:57,776 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:14:57,776 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:15:21,083 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:15:21,083 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:15:21,084 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:15:21,084 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:15:30,845 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:15:30,846 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:15:30,846 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:15:30,846 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:17:09,024 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:17:09,024 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:17:09,025 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:17:09,025 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:17:54,993 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:17:54,993 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:17:54,994 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:17:54,994 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:18:16,132 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:18:16,132 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:18:16,133 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:18:16,133 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:18:33,136 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:18:33,136 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:18:33,137 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:18:33,137 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:18:51,713 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:18:51,713 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:18:51,713 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:18:51,713 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:19:06,393 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:19:06,393 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:19:06,394 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:19:06,394 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:20:15,782 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:20:15,782 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:20:15,782 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:20:15,782 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:20:33,411 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:20:33,412 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:20:33,412 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:20:33,412 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:20:47,069 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:20:47,069 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:20:47,070 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:20:47,070 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:25:01,784 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:25:01,785 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:25:01,785 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:25:01,785 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:25:40,348 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:25:40,348 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:25:40,348 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:25:40,348 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:26:23,874 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:26:23,874 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:26:23,874 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:26:23,874 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:26:50,282 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:26:50,282 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:26:50,283 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:26:50,283 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:27:39,098 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:27:39,098 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:27:39,098 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:27:39,098 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:28:26,356 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:28:26,356 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:28:26,356 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:28:26,356 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:28:37,194 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:28:37,194 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:28:37,195 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:28:37,195 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 05:29:02,143 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:29:02,143 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 05:29:02,144 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 05:29:02,144 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:35:11,372 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:35:11,372 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:35:11,372 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:35:11,372 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:36:50,964 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:36:50,965 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:36:50,965 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:36:50,965 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:37:10,054 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:10,054 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:37:10,054 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:10,054 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:37:21,070 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:21,071 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:37:21,072 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:21,072 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:37:47,443 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:47,443 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:37:47,443 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:47,443 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:37:55,369 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:55,369 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:37:55,369 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:37:55,369 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:39:51,598 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:39:51,598 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:39:51,599 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:39:51,599 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:44:21,227 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:44:21,227 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:44:21,227 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:44:21,227 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:46:02,929 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:46:02,929 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:46:02,930 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:46:02,930 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:47:53,705 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:47:53,706 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:47:53,706 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:47:53,706 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:48:07,567 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:48:07,567 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:48:07,568 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:48:07,568 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:49:07,230 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:49:07,230 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:49:07,231 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:49:07,231 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:50:50,027 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:50:50,027 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:50:50,029 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:50:50,029 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:51:43,568 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:51:43,568 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:51:43,569 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:51:43,569 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:51:58,225 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:51:58,225 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:51:58,226 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:51:58,226 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:52:27,176 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:52:27,176 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:52:27,176 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:52:27,176 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:52:48,354 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:52:48,354 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:52:48,354 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:52:48,355 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:52:52,365 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:52:52,365 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:52:52,366 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:52:52,366 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:54:18,241 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:54:18,241 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:54:18,242 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:54:18,242 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:54:20,978 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:54:20,978 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:54:20,978 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:54:20,978 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:54:27,039 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:54:27,039 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:54:27,040 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:54:27,040 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:55:09,990 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:55:09,990 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:55:09,991 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:55:09,991 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:55:11,434 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:55:11,434 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:55:11,434 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:55:11,434 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:58:14,234 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:58:14,234 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:58:14,234 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:58:14,234 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 08:59:14,050 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:59:14,050 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 08:59:14,050 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 08:59:14,050 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:01:25,319 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:01:25,319 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:01:25,319 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:01:25,319 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:01:52,741 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:01:52,741 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:01:52,742 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:01:52,742 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:02:29,402 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:02:29,402 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:02:29,403 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:02:29,403 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:03:45,607 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:03:45,607 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:03:45,608 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:03:45,608 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:04:55,957 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:04:55,957 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:04:55,957 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:04:55,957 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:04:59,705 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:04:59,705 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:04:59,706 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:04:59,706 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:05:17,949 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:05:17,950 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:05:17,950 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:05:17,950 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:06:03,312 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:06:03,312 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:06:03,313 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:06:03,313 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:06:15,033 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:06:15,033 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:06:15,034 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:06:15,034 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:12:43,216 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:12:43,216 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:12:43,216 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:12:43,216 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:16:22,329 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:16:22,329 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:16:22,329 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:16:22,330 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:16:53,071 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:16:53,071 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:16:53,071 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:16:53,071 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:19:47,310 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:19:47,310 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:19:47,311 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:19:47,311 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:20:02,974 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:20:02,975 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:20:02,975 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:20:02,975 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:21:14,350 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:21:14,350 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:21:14,350 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:21:14,350 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:22:53,370 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:22:53,370 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:22:53,370 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:22:53,370 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:23:09,163 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:23:09,164 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:23:09,164 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:23:09,164 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:23:26,231 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:23:26,231 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:23:26,232 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:23:26,232 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:23:35,873 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:23:35,873 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:23:35,874 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:23:35,874 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:24:45,944 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:24:45,944 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:24:45,945 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:24:45,945 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:24:50,893 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:24:50,893 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:24:50,894 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:24:50,894 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:25:16,614 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:25:16,614 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:25:16,615 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:25:16,615 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:25:24,398 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:25:24,398 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:25:24,399 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:25:24,399 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:26:17,998 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:26:17,998 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:26:17,998 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:26:17,998 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:26:55,342 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:26:55,343 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:26:55,344 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:26:55,344 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:28:26,021 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:28:26,021 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:28:26,021 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:28:26,021 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:28:56,418 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:28:56,418 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:28:56,419 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:28:56,419 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:29:27,695 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:29:27,695 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:29:27,696 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:29:27,696 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:31:11,713 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:31:11,713 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:31:11,713 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:31:11,713 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:31:32,211 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:31:32,211 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:31:32,212 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:31:32,212 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:32:13,512 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:32:13,513 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:32:13,513 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:32:13,513 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:32:49,913 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:32:49,913 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:32:49,913 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:32:49,913 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:33:26,499 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:33:26,500 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:33:26,500 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:33:26,500 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:34:10,984 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:34:10,985 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:34:10,985 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:34:10,985 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:34:26,234 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:34:26,234 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:34:26,234 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:34:26,234 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:34:34,720 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:34:34,720 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:34:34,720 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:34:34,720 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:35:41,986 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:35:41,986 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:35:41,987 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:35:41,987 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:36:26,563 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:36:26,563 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:36:26,563 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:36:26,563 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:36:42,738 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:36:42,739 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:36:42,739 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:36:42,739 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:36:49,826 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:36:49,826 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:36:49,826 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:36:49,826 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:37:45,586 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:37:45,586 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:37:45,587 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:37:45,587 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:41:00,169 [Worker-192] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.7.1/selenium-api-3.7.1-sources.jar
+2017-12-22 09:41:00,970 [Worker-192] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.7.1/selenium-api-3.7.1-sources.jar
+2017-12-22 09:41:01,240 [Worker-192] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-api:3.7.1
+2017-12-22 09:41:01,531 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:41:01,531 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:41:01,532 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:41:01,532 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:42:23,758 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:42:23,758 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:42:23,759 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:42:23,759 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:42:29,307 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:42:29,307 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:42:29,307 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:42:29,307 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:42:47,022 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:42:47,022 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:42:47,023 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:42:47,023 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:43:16,207 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:43:16,208 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:43:16,208 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:43:16,208 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 09:43:36,172 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:43:36,172 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 09:43:36,173 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 09:43:36,173 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:05:40,232 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:05:40,233 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:05:40,233 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:05:40,233 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:09:29,323 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:09:29,323 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:09:29,324 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:09:29,324 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:09:35,712 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:09:35,713 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:09:35,713 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:09:35,713 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:09:41,095 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:09:41,096 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:09:41,096 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:09:41,096 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:11:28,691 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:11:28,691 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:11:28,692 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:11:28,692 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:11:42,789 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:11:42,789 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:11:42,789 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:11:42,789 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:12:17,214 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:12:17,214 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:12:17,215 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:12:17,215 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:12:34,361 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:12:34,362 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:12:34,362 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:12:34,362 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:12:55,009 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:12:55,009 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:12:55,010 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:12:55,010 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:13:59,639 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:13:59,639 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:13:59,639 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:13:59,639 [Worker-206] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:14:03,246 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:14:03,247 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:14:03,247 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:14:03,247 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:15:10,259 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:15:10,259 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:15:10,259 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:15:10,259 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:15:19,722 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:15:19,723 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:15:19,723 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:15:19,723 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:32:19,685 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:32:19,685 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:32:19,686 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:32:19,686 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:37:36,324 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:37:36,324 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:37:36,325 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:37:36,325 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:37:55,810 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:37:55,810 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:37:55,810 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:37:55,810 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:38:53,806 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:38:53,806 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:38:53,807 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:38:53,807 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:39:31,040 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:39:31,041 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:39:31,041 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:39:31,041 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:48:12,955 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:12,955 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:48:12,956 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:12,956 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:48:30,366 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:30,367 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:48:30,367 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:30,367 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:48:47,580 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:47,581 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:48:47,581 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:47,581 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:48:48,627 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:48,627 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:48:48,628 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:48:48,628 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:49:13,843 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:49:13,843 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:49:13,843 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:49:13,843 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:49:54,279 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:49:54,279 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:49:54,280 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:49:54,280 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:50:07,729 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:50:07,729 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:50:07,730 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:50:07,730 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:50:45,514 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:50:45,514 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:50:45,515 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:50:45,515 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:50:54,486 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:50:54,486 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:50:54,487 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:50:54,487 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:52:33,598 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:52:33,598 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:52:33,599 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:52:33,599 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:53:44,294 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:53:44,294 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:53:44,294 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:53:44,295 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:54:11,170 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:54:11,170 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:54:11,170 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:54:11,171 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:55:15,590 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:55:15,590 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:55:15,591 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:55:15,591 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:55:41,827 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:55:41,827 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:55:41,828 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:55:41,828 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:57:43,862 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:57:43,863 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:57:43,863 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:57:43,863 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:58:19,782 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:58:19,783 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:58:19,783 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:58:19,783 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:58:37,594 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:58:37,594 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:58:37,595 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:58:37,595 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 10:58:48,712 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:58:48,712 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 10:58:48,712 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 10:58:48,712 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:00:44,798 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:00:44,798 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:00:44,799 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:00:44,799 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:03:12,716 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:03:12,716 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:03:12,717 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:03:12,717 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:03:22,768 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:03:22,768 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:03:22,769 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:03:22,770 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:07:35,759 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:07:35,760 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:07:35,760 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:07:35,760 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:09:33,172 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:09:33,172 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:09:33,173 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:09:33,173 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:09:52,366 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:09:52,367 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:09:52,367 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:09:52,367 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:11:03,901 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:11:03,901 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:11:03,902 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:11:03,902 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:12:47,118 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:12:47,118 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:12:47,119 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:12:47,119 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:13:28,845 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:13:28,846 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:13:28,846 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:13:28,846 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:14:49,673 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:14:49,673 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:14:49,674 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:14:49,674 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:15:40,002 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:15:40,002 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:15:40,002 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:15:40,002 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:16:26,480 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:16:26,480 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:16:26,481 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:16:26,481 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:17:13,557 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:13,557 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:17:13,558 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:13,558 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:17:22,546 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:22,546 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:17:22,547 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:22,547 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:17:27,074 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:27,074 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:17:27,075 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:27,075 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:17:46,579 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:46,580 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:17:46,580 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:17:46,580 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:19:25,279 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:19:25,279 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:19:25,280 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:19:25,280 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:19:34,569 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:19:34,569 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:19:34,569 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:19:34,569 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:22:13,017 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:22:13,017 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:22:13,018 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:22:13,018 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:22:40,742 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:22:40,742 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:22:40,742 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:22:40,743 [Worker-224] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:28:39,356 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:28:39,356 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:28:39,356 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:28:39,357 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:29:48,498 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:29:48,499 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:29:48,499 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:29:48,499 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:29:56,660 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:29:56,660 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:29:56,660 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:29:56,660 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:30:10,603 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:30:10,603 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:30:10,603 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:30:10,603 [Worker-221] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:53:01,211 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:53:01,212 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:53:01,212 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:53:01,212 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 11:55:09,068 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:55:09,069 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 11:55:09,069 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 11:55:09,069 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:01:51,322 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:01:51,322 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:01:51,323 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:01:51,323 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:02:05,978 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:02:05,978 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:02:05,979 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:02:05,979 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:02:27,598 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:02:27,598 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:02:27,599 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:02:27,599 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:04:53,961 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:04:53,961 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:04:53,961 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:04:53,961 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:05:31,363 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:05:31,363 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:05:31,364 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:05:31,364 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:11:20,116 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:11:20,116 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:11:20,118 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:11:20,118 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:11:30,614 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:11:30,615 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:11:30,615 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:11:30,616 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:11:47,784 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:11:47,784 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:11:47,784 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:11:47,784 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:18:03,512 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:18:03,512 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:18:03,513 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:18:03,513 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:18:30,466 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:18:30,466 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:18:30,467 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:18:30,467 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:24:12,920 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:24:12,920 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:24:12,921 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:24:12,921 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:24:42,041 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:24:42,042 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:24:42,042 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:24:42,042 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:25:47,206 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:25:47,207 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:25:47,207 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:25:47,207 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:30:51,543 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:30:51,544 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:30:51,545 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:30:51,545 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:30:56,186 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:30:56,187 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:30:56,187 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:30:56,187 [Worker-246] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:31:42,547 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:31:42,547 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:31:42,548 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:31:42,548 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:32:11,565 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:32:11,565 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:32:11,566 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:32:11,566 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:58:14,342 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:58:14,342 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:58:14,342 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:58:14,342 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:58:52,127 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:58:52,127 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:58:52,127 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:58:52,127 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 12:59:52,326 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:59:52,326 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 12:59:52,327 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 12:59:52,327 [Worker-250] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-22 13:01:07,916 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 13:01:07,916 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-22 13:01:07,917 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-22 13:01:07,917 [Worker-265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 10:33:22,131 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 10:33:22,147 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 10:33:22,152 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 10:33:22,159 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 10:37:42,310 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 10:37:42,311 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 10:37:42,313 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 10:37:42,314 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:52:24,974 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:24,974 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:52:24,976 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:24,976 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:52:36,540 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:36,540 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:52:36,541 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:36,541 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:52:40,961 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:40,961 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:52:40,963 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:40,963 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:52:53,960 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:53,960 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:52:53,962 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:52:53,962 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:55:19,432 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:55:19,432 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:55:19,433 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:55:19,434 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:56:05,664 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:56:05,664 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:56:05,665 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:56:05,666 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:56:47,120 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:56:47,120 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:56:47,122 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:56:47,122 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:58:13,718 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:58:13,719 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:58:13,721 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:58:13,721 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 15:58:23,422 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:58:23,422 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 15:58:23,423 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 15:58:23,423 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:00:47,351 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:00:47,351 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:00:47,352 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:00:47,352 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:01:24,530 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:01:24,530 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:01:24,531 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:01:24,532 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:06:14,634 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:06:14,634 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:06:14,635 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:06:14,635 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:08:25,932 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:08:25,933 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:08:25,934 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:08:25,934 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:08:35,095 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:08:35,095 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:08:35,097 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:08:35,097 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:09:56,344 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:09:56,344 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:09:56,345 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:09:56,345 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:10:16,078 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:10:16,078 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:10:16,081 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:10:16,082 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:10:25,663 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:10:25,663 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:10:25,664 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:10:25,664 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:12:39,854 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:12:39,854 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:12:39,855 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:12:39,855 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:13:00,330 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:13:00,330 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:13:00,331 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:13:00,331 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:13:53,045 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:13:53,046 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:13:53,047 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:13:53,047 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:14:10,679 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:14:10,679 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:14:10,680 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:14:10,680 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:14:32,359 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:14:32,360 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:14:32,361 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:14:32,361 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 16:14:57,534 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:14:57,534 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 16:14:57,535 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 16:14:57,535 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 17:06:43,331 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 17:06:43,331 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 17:06:43,332 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 17:06:43,333 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 17:07:03,496 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 17:07:03,496 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 17:07:03,497 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 17:07:03,497 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 17:08:23,017 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 17:08:23,017 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 17:08:23,019 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 17:08:23,019 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:10:05,931 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:10:05,931 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:10:05,932 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:10:05,932 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:11:00,893 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:11:00,893 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:11:00,894 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:11:00,894 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:13:31,786 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:13:31,786 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:13:31,787 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:13:31,787 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:14:18,373 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:14:18,374 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:14:18,375 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:14:18,375 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:14:59,102 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:14:59,102 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:14:59,104 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:14:59,104 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:15:21,788 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:15:21,788 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:15:21,789 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:15:21,790 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:20:46,156 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:20:46,156 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:20:46,157 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:20:46,157 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:21:15,875 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:21:15,876 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:21:15,876 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:21:15,877 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:24:28,365 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:24:28,366 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:24:28,366 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:24:28,366 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:24:49,833 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:24:49,833 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:24:49,834 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:24:49,834 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:25:59,951 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:25:59,952 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:25:59,952 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:25:59,952 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:27:10,052 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:27:10,053 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:27:10,053 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:27:10,053 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:28:57,360 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:28:57,360 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:28:57,362 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:28:57,362 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:32:39,760 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:39,760 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:32:39,761 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:32:39,761 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-29 18:33:02,896 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:33:02,896 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-29 18:33:02,897 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-29 18:33:02,897 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:32:16,403 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:32:16,431 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:32:16,433 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:32:16,433 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:32:31,570 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:32:31,570 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:32:31,571 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:32:31,571 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:35:17,168 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:35:17,168 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:35:17,169 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:35:17,169 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:36:46,176 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:36:46,176 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:36:46,176 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:36:46,176 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:37:04,408 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:37:04,408 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:37:04,409 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:37:04,409 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:37:42,855 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:37:42,855 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:37:42,856 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:37:42,856 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:37:47,302 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:37:47,302 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:37:47,303 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:37:47,303 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:38:01,001 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:38:01,001 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:38:01,002 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:38:01,002 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2017-12-30 10:40:09,702 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:40:09,702 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2017-12-30 10:40:09,703 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-30 10:40:09,703 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources
+2018-01-01 17:50:07,321 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-01 17:50:07,321 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/main/resources
+2018-01-01 17:50:07,322 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-01 17:50:07,322 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/sysmurff/Desktop/ProtonEmailBot/ProtonBot/src/test/resources

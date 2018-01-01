@@ -1,5 +1,0 @@
-package com.proton.email.bot.core._;
-
-public abstract class ProtonAppView {
-
-}

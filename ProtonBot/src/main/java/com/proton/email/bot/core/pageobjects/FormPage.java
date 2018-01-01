@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-import com.proton.email.bot.core.BasePage;
 
 public class FormPage extends FormPage_1 {
 

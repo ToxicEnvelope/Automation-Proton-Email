@@ -13,6 +13,8 @@ import net.serenitybdd.core.annotations.findby.FindBy;
 public class HumanPage extends BasePage {
 	
 
+	private String _fetchedData;
+	
 	@FindBy(css="div.humanVerification-wrapper")
 	WebElement humanWrapper;
 	// --- Non-PageFactory Associated --- //
@@ -26,6 +28,7 @@ public class HumanPage extends BasePage {
 	WebElement sendBtn;
 	WebElement verificationMSG;
 	WebElement verificationBiggerField;
+	WebElement completeSetupBtn;
 	
 	// Constructor
 	public HumanPage(WebDriver driver) {
@@ -43,6 +46,7 @@ public class HumanPage extends BasePage {
 				verificationBiggerField = waitUntilElementLocatedByCSS("form.pm_grid div.margin > input.bigger");
 				return true;
 			}
+			snapShot();
 			return false;
 		} 
 		catch (Exception e) {
@@ -65,11 +69,43 @@ public class HumanPage extends BasePage {
 
 
 	private boolean isVerificationCodeSentMSGDisplayed() {
-		verificationMSG = waitUntilElementLocatedByCSS("form.pm_grid > p.alert.alert-success");
+		verificationMSG = waitUntilElementLocatedByCSS("div.pm_grid p.alert");
 		if (verificationMSG.isDisplayed())
 		{
 			return false;
 		}
+		snapShot();
 		return false;
 	}
+
+	public void fetch(String fetchedKeyPass) {
+		setFetchedData(fetchedKeyPass);
+	}
+
+	private void setFetchedData(String data) {
+		this._fetchedData = data;
+	}
+	
+	private String getFetchedData() {
+		return _fetchedData;
+	}
+	
+	public boolean placeBiggerInKeyPassFieldAndConfirm() {
+		try {
+			if (verificationBiggerField.isDisplayed())
+			{
+				fillText(verificationBiggerField, getFetchedData());
+				this.completeSetupBtn = waitUntilElementIsClickableByCSS("div#verification-panel p > button.pm_button");
+				click(completeSetupBtn);
+				return true;
+			}
+			snapShot();
+			return false;
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+			return false;
+		}
+	}
+
 }

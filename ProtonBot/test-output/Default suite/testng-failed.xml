@@ -5,8 +5,9 @@
     <classes>
       <class name="com.proton.email.bot.core.tests.ProtonTests">
         <methods>
+          <include name="Grab_From_Thread_and_Retreive_BiggerKeyPass_TEST"/>
+          <include name="Confirm_Human_and_Verify_Email_TEST"/>
           <include name="setUp"/>
-          <include name="Confirm_Human_and_Verify_Email"/>
         </methods>
       </class> <!-- com.proton.email.bot.core.tests.ProtonTests -->
     </classes>

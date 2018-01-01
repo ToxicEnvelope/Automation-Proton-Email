@@ -19,6 +19,8 @@ public class SignInPage extends SignInPage_1 {
 		selectPlanBtn = waitUntilElementLocatedByCSS("div.panel-footer>div.row>div>button");
 		if(selectPlanBtn.isDisplayed())
 		{
+			scrollTo(selectPlanBtn);
+			wait(1000);
 			click(selectPlanBtn);
 			return true;
 		}
