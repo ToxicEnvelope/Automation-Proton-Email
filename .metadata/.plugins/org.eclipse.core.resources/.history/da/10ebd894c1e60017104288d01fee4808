@@ -1,0 +1,124 @@
+package com.proton.email.bot.core;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.Calendar;
+
+import org.apache.commons.io.FileUtils;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriverException;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public abstract class BasePage {
+	
+	// Fields
+	public WebDriver _driver;
+	public TakesScreenshot screen;
+	public JavascriptExecutor _js;
+	
+	// Constructor
+	public BasePage(WebDriver driver) {
+		this._driver = driver;
+		PageFactory.initElements(_driver, this);
+	}
+	// fill text fields of WebElement object
+	public void fillText(WebElement el, String word) {
+		if(el.isDisplayed()) {
+			if(el.getText().isEmpty()) 
+			{
+				this._js = (JavascriptExecutor) _driver; 
+				_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid green;');", el);
+				el.sendKeys(word);
+				wait(1000);
+			}
+			else {	
+				this._js = (JavascriptExecutor) _driver; 
+				_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid blue;');", el);
+				el.clear();
+				el.sendKeys(word);
+				wait(1000);
+			}		
+		}
+	}
+	// scroll to WebElement object
+	public void scrollTo(WebElement element) {
+		try {
+			this._js = (JavascriptExecutor) _driver;
+			_js.executeScript("arguments[0].scrollIntoView(true);",element);
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+	// click on WebElement object
+	public void click(WebElement el) {
+		try {
+			this._js = (JavascriptExecutor) _driver; 
+			_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid yellow;');", el);
+			el.click();
+			wait(1000);
+		}
+		catch (WebDriverException e) {
+			_js = (JavascriptExecutor) _driver;
+			_js.executeScript("arguments[0].setAttribute('style','padding: 2px; border: 2px solid orange;');", el);
+			_js.executeScript("arguments[0].click()", el);
+			wait(1000);
+		}
+	}
+	// wait given milliseconds
+	public void wait(int mSeconds) {
+		try {
+			Thread.sleep(mSeconds);
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	// take a screen shot
+	public void snapShot() {
+		this.screen = (TakesScreenshot) _driver;
+		File src = screen.getScreenshotAs(OutputType.FILE);
+		try {
+			FileUtils.copyFile(src, new File(System.getProperty("user.dir") 
+								             		 + "/src/ScreenShots/" 
+								                     + getFingerprint() + ".png"));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	// returns a timestamp fingerprint 
+	private String getFingerprint() {
+		Calendar c = Calendar.getInstance();
+		return c.getTime().toString();
+	}
+
+	// IMPICIT WAITERS //
+	// Presence in DOM By CSS
+	public WebElement waitUntilElementPresenceByCSS(String css) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector(css)));
+	}
+	// Visible in DOM By CSS
+	public WebElement waitUntilElementLocatedByCSS(String css) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(css)));
+	}
+	// Presence in DOM By ID
+	public WebElement waitUntilElementPresenceByID(String id) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.presenceOfElementLocated(By.id(id)));
+	}
+	// Visible in DOM By ID	
+	public WebElement  waitUntilElementLocatedByID(String id) {
+		WebDriverWait wait = new WebDriverWait(_driver, 10);
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(By.id(id)));
+	}
+}

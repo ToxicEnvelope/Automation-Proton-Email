@@ -1,0 +1,37 @@
+#!/usr/bin/env python
+
+import os
+try:
+    import mechanize
+    import pip
+except ImportError as e:
+    print str(e)[15:]
+    pip = lambda : os.system('pip install ' + str(e)[15:])
+    pip()
+    
+    
+class ChromedriverChecker():
+    
+    base_url = "https://chromedriver.storage.googleapis.com/"
+    path = base_url + "index.html?path="
+    last = None
+    
+    def __init__(self):
+        self.try_to_identify_chromedriver_latest_version()
+        self.download_chromedriver()
+        
+    def try_to_identify_chromedriver_latest_version(cls):
+        polyform = cls.base_url + "LATEST_RELEASE"
+        ver = polyform.strip().read()
+        cls.last = cls.path + ver 
+    
+    def download_chromedriver(cls):
+        res = urlopen(cls.last + "/chromedriver_mac64.zip")
+        CHUNK = 16 * 1024
+        with open(file, 'wb') as f:
+            while True:
+                chunk = res.read(CHUNK)
+                if(not chunk):
+                    break
+                f.write(chunk)
+            f.close()

@@ -1,0 +1,48 @@
+package com.proton.email.bot.core.pageobjects;
+
+import org.openqa.selenium.WebDriver;
+
+import com.proton.email.bot.core.BasePage;
+
+public class GmailInboxPage extends BasePage {
+	
+	
+	
+	public GmailInboxPage(WebDriver driver) {
+		super(driver);
+		identifyElements();
+	}
+
+	private void identifyElements() {
+		// TODO Auto-generated method stub	
+		/*
+		 * Need to identify all elements at gmail web page
+		 */
+	}
+
+	public boolean isProtonThreadInsideInbox() {
+		// TODO Auto-generated method stub
+		/*
+		 * verify an existing Thread Message from ProtonEmail Service inside the inbox
+		 */
+		return false;
+	}
+	
+	public void attemptToAuthenticate(String usersname, String password) {
+		// TODO Auto-generated method stub
+		/*
+		 * try to get to gmail username and password fields
+		 * and attempt to authenticate with gmail inbox service
+		 */
+	}
+
+	public boolean returnBiggerToOriginAndVerified() {
+		// TODO Auto-generated method stub
+		/*
+		 * 
+		 */
+		return false;
+		
+	}
+
+}

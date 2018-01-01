@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+
+import os
+try:
+    
+    import pip
+except ImportError as e:
+    print str(e)[15:]
+    pip = lambda : os.system('pip install ' + str(e)[15:])
+    pip()
+    
+    
+class ChromedriverChecker(object):
+    
+    def __init__(self):

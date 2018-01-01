@@ -1,0 +1,92 @@
+package com.proton.email.bot.core.pageobjects;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+import com.proton.email.bot.core.BasePage;
+
+
+public class GmailInboxPage extends BasePage {
+	
+	
+	@FindBy(css="input#identifierId")
+	WebElement gmailUserField;
+	// --- Non-PageFactory Associated --- //
+	WebElement gmailContainer;
+	WebElement nextBtn;
+	WebElement gmailPasswordField;
+	WebElement nextPassBtn;
+	WebElement googleAppsBtn;
+	WebElement googleAppsContainer;
+	WebElement gmailAppBtn;
+	
+	public GmailInboxPage(WebDriver driver) {
+		super(driver);
+		identifyElements();
+	}
+
+	private void identifyElements() {
+		// TODO Auto-generated method stub	
+		/*
+		 * Need to identify all elements at Gmail web page
+		 */
+		try {
+			gmailContainer = waitUntilElementPresenceByCSS("div.bdf4dc.slptg");
+			if(gmailContainer.isDisplayed())
+			{
+				this.gmailUserField = waitUntilElementPresenceByCSS("input.whsOnd.zHQkBf[type=email]");
+				this.nextBtn = waitUntilElementLocatedByCSS("div#identifierNext");
+			}
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public void attemptToAuthenticate(String username, String password) {
+		// TODO Auto-generated method stub
+		/*
+		 * try to get to gmail username and password fields
+		 * and attempt to authenticate with gmail inbox service
+		 */
+		fillText(gmailUserField, username);
+		click(nextBtn);
+		try {
+			this.gmailPasswordField = waitUntilElementLocatedByCSS("input.whsOnd.zHQkBf[type=password]");
+			if(gmailPasswordField.isDisplayed())
+			{
+				fillText(gmailPasswordField, password);
+				this.nextPassBtn = waitUntilElementLocatedByCSS("div#passwordNext");
+				click(nextPassBtn);
+				this.googleAppsBtn = waitUntilElementPresenceByCSS("div a.gb_b[aria-label='Google apps']");
+				click(googleAppsBtn);
+				this.googleAppsContainer = waitUntilElementLocatedByCSS("ul.gb_ia.gb_ba");
+				this.gmailAppBtn = googleAppsContainer.findElement(By.partialLinkText("Gmail"));
+				click(gmailAppBtn);
+			}
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public boolean isProtonThreadInsideInbox() {
+		// TODO Auto-generated method stub
+		/*
+		 * verify an existing Thread Message from ProtonEmail Service inside the inbox
+		 */
+		return false;
+	}
+	
+	public String returnBiggerToOriginAndVerify() {
+		// TODO Auto-generated method stub
+		/*
+		 * return the KeyPass text component from the Thread's body as String
+		 */
+		return null;
+		
+	}
+
+}

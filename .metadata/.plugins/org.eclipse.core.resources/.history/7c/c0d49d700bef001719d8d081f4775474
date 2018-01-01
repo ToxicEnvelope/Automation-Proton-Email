@@ -1,0 +1,8 @@
+package com.proton.email.bot.utils;
+
+public class LogRecords {
+	
+	private static final String LOG_PATH = System.getProperty("user.dir") + "/src/tests/logs";
+	
+
+}

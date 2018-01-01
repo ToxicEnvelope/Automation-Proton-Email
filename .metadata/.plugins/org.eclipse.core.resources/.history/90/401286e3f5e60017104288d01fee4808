@@ -1,0 +1,24 @@
+#!/usr/bin/env python
+
+import os
+try:
+    
+    import pip
+except ImportError as e:
+    print str(e)[15:]
+    pip = lambda : os.system('pip install ' + str(e)[15:])
+    pip()
+    
+    
+class ChromedriverChecker(object):
+    
+    path = None
+    base_url = "https://chromedriver.storage.googleapis.com/LATEST_RELEASE"
+    
+    def __init__(self):
+        self.try_to_identify_chromedriver_latest_version()
+        
+    def try_to_identify_chromedriver_latest_version(cls):
+        cls.path
+        
+        

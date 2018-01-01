@@ -1,4 +1,4 @@
-\RemoteSystemTempFiles
-\.metadata
-\.recommenders
-\.DS_Store
+*/RemoteSystemTempFiles/*
+*/.metadata/*
+*/.recommenders/*
+*/.DS_Store/*
